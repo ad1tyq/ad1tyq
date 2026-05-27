@@ -1,4 +1,3 @@
-# ad1tyq
 # 💫 About Me:
 I'm a junior year engineering student studying Computer Science with specialization in Artificial Intelligence and Machine Learning. I am someone who loves building things that solve real problems. Right now, I'm exploring full-stack web development and AI, and I enjoy learning by doing — one project at a time.
 
