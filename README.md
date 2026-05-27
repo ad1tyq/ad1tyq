@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I am a junior year Computer Science student (AI/ML specialization) focused on architecting scalable backend systems, containerized deployments, and high-concurrency APIs. Currently exploring full-stack web development and transitioning into bare-metal Java and Spring Boot architecture. 
+I am a junior year Computer Science student (AI/ML specialisation) focused on architecting scalable backend systems, containerised deployments, and high-concurrency APIs. Currently exploring full-stack web development and transitioning into Java and Spring Boot architecture. 
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityabhardwaj1) 
