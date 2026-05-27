@@ -1,5 +1,4 @@
 # 💫 About Me
-**Backend Engineer | Enterprise Infrastructure & Distributed Systems**
 
 I am a junior year Computer Science student (AI/ML specialization) focused on architecting scalable backend systems, containerized deployments, and high-concurrency APIs. Currently exploring full-stack web development and transitioning into bare-metal Java and Spring Boot architecture. 
 
