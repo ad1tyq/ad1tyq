@@ -1,4 +1,4 @@
-# 💫 About Me
+# 🧑🏻‍💻 About Me
 
 I am a junior year Computer Science student (AI/ML specialisation) focused on architecting scalable backend systems, containerised deployments, and high-concurrency APIs. Currently exploring full-stack web development and transitioning into Java and Spring Boot architecture. 
 
