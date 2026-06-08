@@ -15,7 +15,7 @@ I am a junior year Computer Science student (AI/ML specialisation) focused on ar
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ad1tyq1&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ad1tyq&theme=algolia&hide_border=true" />
 </p>
 
 <p align="center">
