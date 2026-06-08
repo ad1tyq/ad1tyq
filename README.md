@@ -14,7 +14,7 @@ I am a junior year Computer Science student (AI/ML specialisation) focused on ar
 
 ## 📊 GitHub Stats
 
-<p align="">
+<p align="left">
   <img src="https://raw.githubusercontent.com/ad1tyq/ad1tyq/output/github-contribution-grid-snake.svg" />
 </p>
 
