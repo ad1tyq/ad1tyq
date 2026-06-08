@@ -14,3 +14,14 @@ I am a junior year Computer Science student (AI/ML specialisation) focused on ar
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=ad1tyq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ad1tyq&theme=algolia&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ad1tyq/ad1tyq/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ad1tyq&label=Profile%20Views&color=23F7DD&style=for-the-badge" />
+</p>
