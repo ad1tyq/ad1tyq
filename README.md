@@ -18,6 +18,6 @@ I am a junior year Computer Science student (AI/ML specialisation) focused on ar
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ad1tyq&theme=algolia&hide_border=true" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=ad1tyq&label=Profile%20Views&color=23F7DD&style=for-the-badge" />
 </p>
