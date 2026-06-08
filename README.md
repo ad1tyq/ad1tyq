@@ -13,12 +13,8 @@ I am a junior year Computer Science student (AI/ML specialisation) focused on ar
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=ad1tyq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ad1tyq&theme=algolia&hide_border=true" />
-</p>
 
-<p align="center">
+<p align="">
   <img src="https://raw.githubusercontent.com/ad1tyq/ad1tyq/output/github-contribution-grid-snake.svg" />
 </p>
 
