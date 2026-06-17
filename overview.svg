@@ -8,7 +8,7 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: black;
+  fill: #0d1117;
   stroke: rgb(225, 228, 232);
   stroke-width: 1px;
   rx: 6px;
@@ -24,7 +24,7 @@ text {
 <text x="0" y="15" font-weight="600" font-size="16">Overview</text>
 <text x="0" y="45">⭐ Total Stars: 7</text>
 <text x="0" y="70">🍴 Total Forks: 8</text>
-<text x="0" y="95"> contributions: 552</text>
+<text x="0" y="95"> contributions: 553</text>
 </g>
 </g>
 </svg>
