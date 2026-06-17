@@ -1,10 +1,11 @@
 # 🧑🏻‍💻 About Me
 
-I am a junior year Computer Science student (AI/ML specialisation) focused on architecting scalable backend systems, containerised deployments, and high-concurrency APIs. Currently exploring full-stack web development and transitioning into Java and Spring Boot architecture. 
+I am a junior year Computer Science student (AI/ML specialisation) focused on architecting scalable backend systems, containerised deployments, and high-concurrency APIs. Currently exploring full-stack web development and transitioning into Java and Spring Boot architecture.
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityabhardwaj1) 
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ad1tyq) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityabhardwaj1)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ad1tyq)
 
 ## 💻 The Tech Stack
 
@@ -14,9 +15,13 @@ I am a junior year Computer Science student (AI/ML specialisation) focused on ar
 
 ## 📊 GitHub Stats
 
-<p>
+<!-- <p>
   [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad1tyq)](https://github.com/ad1tyq/github-readme-stats)
-</p>
+</p> -->
+
+<!--START_SECTION:waka-simple-->
+<!-- Your simple stats will be automatically inserted here -->
+<!--END_SECTION:waka-simple-->
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ad1tyq&theme=algolia&hide_border=true" />
