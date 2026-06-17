@@ -16,6 +16,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: "waka-simple"
           COMMIT_MESSAGE: "Updated simple waka stats section"
+          COMMIT_NAME: "ad1tyq"
+          COMMIT_EMAIL: "adityabhardwaj9b7@gmail.com"
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           TIME_RANGE: all_time
           SHOW_TIME: true
