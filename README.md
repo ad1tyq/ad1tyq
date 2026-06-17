@@ -23,9 +23,8 @@ I am a junior year Computer Science student (AI/ML specialisation) focused on ar
 <!-- Your simple stats will be automatically inserted here -->
 <!--END_SECTION:waka-simple-->
 
-![Language Stats](languages.svg)
-
 <p>
+  ![Language Stats](languages.svg)
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ad1tyq&theme=algolia&hide_border=true" />
 </p>
 
