@@ -15,7 +15,7 @@ I am a junior year Computer Science student (AI/ML specialisation) focused on ar
 ## 📊 GitHub Stats
 
 <p>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad1tyq)](https://github.com/anuraghazra/github-readme-stats)
+  [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad1tyq)](https://github.com/ad1tyq/github-readme-stats)
 </p>
 
 <p>
