@@ -25,7 +25,7 @@ I am a junior year Computer Science student (AI/ML specialisation) focused on ar
 
 <p>
   <img src="languages.svg" alt="Language Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ad1tyq&theme=algolia&hide_border=true" />
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=ad1tyq&theme=algolia&hide_border=true" /> -->
 </p>
 
 <p>
